@@ -1,0 +1,46 @@
+html {
+  font-size: 18px;
+}
+
+body {
+  font-family: Helvetica Neue;
+  font-weight: bold;
+  letter-spacing: -0.06em;
+  background-color: #E6E8E6;
+  padding: 30px;
+}
+
+.px {
+  font-size: 20px;
+  color: #080708;
+}
+
+.rem {
+  font-size: 1.75rem;
+  color: #00c881;
+}
+
+.em {
+  font-size: 2em;
+  color: #7d37ff;
+}
+
+.vw {
+  font-size: 5vw;
+  color: #3772FF;
+}
+
+.vh {
+  font-size: 7vh;
+  color: #DF2935;
+}
+
+.vwvh {
+  font-size: calc(2.5vw + 2.5vh);
+  color: #FDCA40;
+}
+
+.percent {
+  font-size: 150%;
+  color: #004fa6;
+}
